@@ -226,6 +226,7 @@
     "wpackagist-plugin/wp-dashboard-notes": "*",
     "wpackagist-plugin/wp-fastest-cache": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
+    "wpackagist-plugin/wpvr": "*",
     "wpackagist-plugin/xml-sitemap-feed": "*",
     "wpengine/advanced-custom-fields-pro": "*"
   },
